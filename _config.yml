@@ -1,0 +1,28 @@
+name: Kendra Malloy
+favicon: null
+layout_spectrum: 0.02458947175182402
+typography_spectrum: 0.263789874734357
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9364789014216512
+  lightness: 0.7647916548885405
+  saturation: 0.3450041168835014
+  rhythmicContrast: 0.5824140107724816
+purpose: []
