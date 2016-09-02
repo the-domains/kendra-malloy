@@ -1,28 +1,40 @@
-name: Kendra Malloy
-favicon: null
-layout_spectrum: 0.02458947175182402
-typography_spectrum: 0.263789874734357
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.3450041168835014
+  brandStrength: 0.9364789014216512
+  lightness: 0.7647916548885405
+  brandColors:
+    - '#154782'
+    - '#FAF0E7'
+    - '#42739E'
+    - '#CAC9D0'
+    - '#A3A1A5'
+  rhythmicContrast: 0.5824140107724816
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
+name: Kendra Malloy
+favicon: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.9364789014216512
-  lightness: 0.7647916548885405
-  saturation: 0.3450041168835014
-  rhythmicContrast: 0.5824140107724816
-purpose: []
+typography_spectrum: 0.263789874734357
+layout_spectrum: 0.3553191
